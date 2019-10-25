@@ -1,0 +1,10 @@
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\bin\Debug\netcoreapp2.1\Operation.deps.json
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\bin\Debug\netcoreapp2.1\Operation.runtimeconfig.json
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\bin\Debug\netcoreapp2.1\Operation.runtimeconfig.dev.json
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\bin\Debug\netcoreapp2.1\Operation.dll
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\bin\Debug\netcoreapp2.1\Operation.pdb
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\obj\Debug\netcoreapp2.1\Operation.csproj.CoreCompileInputs.cache
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\obj\Debug\netcoreapp2.1\Operation.AssemblyInfoInputs.cache
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\obj\Debug\netcoreapp2.1\Operation.AssemblyInfo.cs
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\obj\Debug\netcoreapp2.1\Operation.dll
+I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Operation\obj\Debug\netcoreapp2.1\Operation.pdb
