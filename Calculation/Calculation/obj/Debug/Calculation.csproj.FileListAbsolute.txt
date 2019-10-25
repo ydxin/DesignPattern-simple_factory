@@ -1,8 +1,0 @@
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\bin\Debug\Calculation.exe
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\bin\Debug\Calculation.pdb
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\obj\Debug\Calculation.Properties.Resources.resources
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\obj\Debug\Calculation.csproj.GenerateResource.cache
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\obj\Debug\Calculation.exe
-I:\Document\Github\DesignPattern-simple_factory.git\trunk\Calculation\Calculation\obj\Debug\Calculation.pdb

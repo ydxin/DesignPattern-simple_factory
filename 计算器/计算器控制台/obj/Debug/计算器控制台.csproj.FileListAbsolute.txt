@@ -1,0 +1,9 @@
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.exe
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.pdb
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.dll
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.pdb
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csprojAssemblyReference.cache
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csproj.CoreCompileInputs.cache
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csproj.CopyComplete
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.exe
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.pdb

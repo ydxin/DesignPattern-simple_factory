@@ -1,0 +1,12 @@
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\bin\Debug\计算器.exe
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\bin\Debug\计算器.pdb
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\bin\Debug\OperationLibrary.dll
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\bin\Debug\OperationLibrary.pdb
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.csprojAssemblyReference.cache
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.Form1.resources
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.csproj.CopyComplete
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.exe
+I:\Document\Stu\设计模式\大话模式源代码\01简单工厂模式\计算器\计算器\obj\Debug\计算器.pdb
